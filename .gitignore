@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# C++ build files
+build/
+out/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# ONNX Runtime / NuGet
+packages/
+nuget.exe
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
