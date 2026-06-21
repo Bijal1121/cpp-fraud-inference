@@ -208,11 +208,3 @@ Key takeaways:
 * Understanding practical ML inference outside notebooks
 
 ---
-
-## Resume Summary
-
-**C++ Fraud Detection Inference System** | C++, ONNX Runtime, Python, CMake
-
-* Built a C++17 fraud-detection inference pipeline by exporting a Python-trained model to ONNX for local CPU execution.
-* Implemented ONNX Runtime model loading, feature preprocessing, probability-based classification, and transaction risk scoring.
-* Benchmarked local CPU inference latency with `std::chrono`, achieving 0.20 ms C++ inference and comparing against Python ONNX Runtime.
